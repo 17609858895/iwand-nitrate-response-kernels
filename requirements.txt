@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+torch
+numba
+joblib
+pyarrow
+geopandas
+shapely
+pyproj
+xgboost
+catboost

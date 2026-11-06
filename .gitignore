@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data_processed/
+data_external/
+results/
+*.zip
+*.parquet
+*.npy
+*.pt
+*.pth
+*.docx
+*.pdf
+*.png
+*.jpg
